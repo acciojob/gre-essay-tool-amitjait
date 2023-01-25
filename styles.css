@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+body{
+    margin: 0px auto;
+    color: white;
+    background-color: black;
+}
+
+#evaluatedText{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+#wordCount{
+    margin-left: 2rem;
+}
