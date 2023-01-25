@@ -22,7 +22,7 @@ function wordCounter(line){
         }else if(c != " "){
             space = 0;
         }
-        if(i==line.length && c != " "){
+        if(i==line.length-1 && c != " "){
             count++;
         }
     }
